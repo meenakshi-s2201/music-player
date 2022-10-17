@@ -1,0 +1,1 @@
+Codesandbox ran out of space and was filled with bugs and extremely laggy, therefore I finished the project on VScode and uploaded. 
